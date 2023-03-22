@@ -1,0 +1,49 @@
+{
+    "name": "dracula",
+    "variables": {
+        "accent_bg_color": "#282a36",
+        "accent_fg_color": "#f8f8f2",
+        "accent_color": "#bd93f9",
+        "window_bg_color": "#1e1f29",
+        "window_fg_color": "#f8f8f2",
+        "view_bg_color": "#2A2C39",
+        "view_fg_color": "#f8f8f2",
+        "headerbar_bg_color": "#1e1f29",
+        "headerbar_fg_color": "#f8f8f2",
+        "headerbar_border_color": "#000000",
+        "headerbar_backdrop_color": "#1e1f29",
+        "card_bg_color": "#282a36",
+        "card_fg_color": "#f8f8f2",
+        "card_shade_color": "#1e1f29",
+        "dialog_bg_color": "#282a36",
+        "dialog_fg_color": "#f8f8f2",
+        "popover_bg_color": "#1e1f29",
+        "popover_fg_color": "#f8f8f2",
+        "scrollbar_outline_color": "#44475a",
+        "success_color": "#50fa7a",
+        "shade_color": "#bd93f9",
+        "headerbar_shade_color": "#1e1f29"
+    },
+    "palette": {
+        "blue_": {},
+        "green_": {
+            "1": "rgb(80,250,122)",
+            "2": "rgba(0,0,0,0)",
+            "3": "rgba(0,0,0,0)",
+            "4": "rgba(0,0,0,0)",
+            "5": "rgba(0,0,0,0)"
+        },
+        "yellow_": {},
+        "orange_": {},
+        "red_": {},
+        "purple_": {},
+        "brown_": {},
+        "light_": {},
+        "dark_": {}
+    },
+    "custom_css": {
+        "gtk4": "",
+        "gtk3": ""
+    },
+    "plugins": {}
+}
